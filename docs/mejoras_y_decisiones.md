@@ -1,0 +1,3 @@
+# Mejoras y decisiones
+
+ADS1015 #1 0x48: S1–S4. ADS1015 #2 0x49: S5–S8. Se usa AO; DO queda sin usar. Alimentación recomendada 3.3 V.
